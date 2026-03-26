@@ -10,7 +10,7 @@ Welcome to my digital playground! This space is dedicated to my "vibe coding" pr
 
 * 🔭 **Currently exploring:** AI-driven tools, design automation, and everyday tech hacks. 
   **目前关注：** AI 驱动工具、设计自动化以及如何用技术提升日常效率。
-* 🌱 **Coding style:** Pure vibe coding (heavily powered by AI pair programming 🤖). 
-  **编程状态：** Vibe Coding（重度依赖 AI 结对编程 🤖）。
+* 🌱 **Coding style:** Pure vibe coding (powered by AI pair programming 🤖). 
+  **编程状态：** Vibe Coding（依赖 AI 编程 🤖）。
 * 💬 **Ask me about:** AI product design, architecture, or any fun crossover ideas. 
   **欢迎交流：** AI 产品设计、建筑学，或者任何有趣的跨界点子。
